@@ -4,4 +4,4 @@
 .app/database/connection_details.py 
 .app/routers/__pycache__
 .app/schemas/__pycache__
-.app/venv
+venev
